@@ -133,7 +133,7 @@
   overflow: hidden;
 }
 
-.about-list-swiper > .swiper-slide {
+.about-list-swiper>.swiper-slide {
   display: block;
   overflow: hidden;
   clear: both;
@@ -177,8 +177,8 @@
 }
 
 .abouot-icon-next-button {
-  width: 28px;
-  height: 28px;
+  width: 23px;
+  height: 23px;
   display: flex;
   justify-content: center;
   align-items: center;
